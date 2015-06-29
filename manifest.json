@@ -21,6 +21,10 @@
       "css": ["mystyles.css"],
       "js": ["contentscript.js"]
     }
+  ],
+  "permissions": [
+    "activeTab",
+    "http://www.google.com/*"
   ]
 
 }
